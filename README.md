@@ -1,6 +1,6 @@
 ### Hi, I'm Sarah 👋
 
-While studiying medicine, I felt in love with coding and statistics and I became a health data scientist. I have been practicing with passion since 2015 and I now teach R and statistics to researchers and medical doctors.
+While studiying medicine, I found a passion in coding and statistics and I became a health data scientist. I have been practicing with passion since 2015 and I now teach R and statistics to researchers and medical doctors.
 
 You will find here a sample of previous projects. Most of the data I worked on was protected but I will try to add simulated data to the projects in the future.
 
